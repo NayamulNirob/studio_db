@@ -1,0 +1,26 @@
+{
+  "name": "studio_db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NayamulNirob/studio_db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NayamulNirob/studio_db/issues"
+  },
+  "homepage": "https://github.com/NayamulNirob/studio_db#readme",
+  "description": "",
+  "dependencies": {
+    "cros": "^1.0.1",
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
